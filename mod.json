@@ -1,0 +1,7 @@
+{
+  "id": "butter-menu",
+  "name": "Butter Menu",
+  "version": "1.0.0",
+  "description": "A client-side mod menu for Circle Flap.",
+  "entry": "mod.js"
+}
